@@ -13,6 +13,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 
+$$
 \begin{align*}
                 \Gamma (1 \! - \! z) \, \Gamma (z) 
                 & ={\pi  \over \sin(\pi z)} \\
@@ -21,6 +22,7 @@ Heading 1
                 \oint_{C} f(z) \, {\mathrm d}z
                 & = 2 \pi i \sum_k \operatorname{Res}(f, a_k)
 \end{align*}
+$$
               
 Heading 2
 ======
