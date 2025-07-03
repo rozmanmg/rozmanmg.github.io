@@ -13,6 +13,15 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 
+\begin{align*}
+                \Gamma (1 \! - \! z) \, \Gamma (z) 
+                & ={\pi  \over \sin(\pi z)} \\
+                \Gamma (z) \Gamma \left(z \! + \! \tfrac{1}{2} \right)
+                & = 2^{1-2z} {\sqrt {\pi }}\;\Gamma (2z) \\
+                \oint_{C} f(z) \, {\mathrm d}z
+                & = 2 \pi i \sum_k \operatorname{Res}(f, a_k)
+\end{align*}
+              
 Heading 2
 ======
 
